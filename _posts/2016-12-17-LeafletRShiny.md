@@ -3,7 +3,7 @@ layout: post
 title: "Leaflet - Basic R Shiny App"
 description: "R Shiny App for locating geographic coordinates on Leaflet Map."
 author: "Shobhit"
-coverImg: "/img/worldmap.jpg"
+background: '/img/worldmap.jpg'
 ---
 
 Leaflet is one of the most popular open-source JavaScript libraries for interactive maps.
