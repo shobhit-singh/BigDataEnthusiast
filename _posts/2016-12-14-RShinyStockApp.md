@@ -6,7 +6,7 @@ author: "Shobhit"
 background: '/img/post-bg.jpg'
 ---
 
-###Stock Data Analysis - R Shiny App
+Stock Data Analysis - R Shiny App
 
 This Shiny App will show you the Historical Stock data & Chart using R quantmod getSymbol function.
 
