@@ -3,7 +3,7 @@ layout: post
 title: "Stock Data Analysis - R Shiny App"
 description: "R Shiny App for extracting Stock Historical data & trend Chart."
 author: "Shobhit"
-coverImg: "/img/post-bg.jpg"
+background: '/img/post-bg.jpg'
 ---
 
 ###Stock Data Analysis - R Shiny App
