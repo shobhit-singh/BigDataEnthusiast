@@ -3,7 +3,7 @@ layout: post
 title: "Stock Data Analysis - R Shiny App"
 description: "R Shiny App for extracting Stock Historical data & trend Chart."
 author: "Shobhit"
-coverImg: "post-bg.jpg"
+coverImg: "/img/post-bg.jpg"
 ---
 
 ###Stock Data Analysis - R Shiny App
@@ -15,8 +15,6 @@ Enter the Valid Stock Symbol in text box to extract the Historical data & chart.
 **Symbol Examples - NSE, ^BSESN, RELIANCE.NS & TCS.NS etc.**
 
 Check out the [R Shiny App](https://shobhitsingh.shinyapps.io/StockDataApp/)
-
-![Snapshot](http://bigdataenthusiast.com/img/quantshiny.png)
 
 Output data extracted using yahoo finace source.*
 
